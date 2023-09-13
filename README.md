@@ -1,4 +1,4 @@
-# ERC20_TokenVariations
+# ERC20Token_withClaim
 
 <b>ERC20_Claim:</b> 
 - Standard ERC20 (mint, burn)
